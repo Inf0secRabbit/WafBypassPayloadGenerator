@@ -1,4 +1,4 @@
-payload = input("Enter your payload")
+payload = input("Enter your payload:")
 retVal = payload
 if payload:
     retVal = ""
@@ -12,5 +12,5 @@ if payload:
             retVal += '%%25%.2X' % ord(payload[i])
             i += 1
 
-print(retVal)
+print("Payload = " + retVal)
 
