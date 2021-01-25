@@ -6,5 +6,5 @@ Enter your payload: (your payload)
 Payload= Your Generated Payload
 
 
-Created By Aniket Prasad & Mohd Maroof
+
 
